@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 984bb9043bc43864c95388a87084d899, type: 3}
+  m_Name: LightningSkillData
+  m_EditorClassIdentifier: 
+  key: Player
+  sprite: {fileID: -1223691786, guid: 5bf8d4ec7a3f0cb48855c36291b11608, type: 3}
+  interval: 3
+  power: 200
+  speed: 0.1
+  scale: 1
+  distance: 2
+  pushPower: 1
+  emitterAmount: 5
+  isTrigger: 0
+  isMove: 1
